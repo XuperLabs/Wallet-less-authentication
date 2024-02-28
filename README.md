@@ -36,7 +36,7 @@ Use code with caution.
 
 This will typically launch the application at http://localhost:3000 in your web browser.
 
-#Interact with the Xuperauth API: [https://xuperauth.com/getstarted](https://www.xuperauth.com/auth/get-started)
+# Interact with the Xuperauth API: [https://xuperauth.com/getstarted](https://www.xuperauth.com/auth/get-started)
 
 The specific steps for interacting with the XuperAuth API using this frontend will depend on the implementation and functionalities provided. However, the general flow would likely involve:
 
